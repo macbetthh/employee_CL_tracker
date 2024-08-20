@@ -21,6 +21,7 @@ The Employee Tracker is a command-line application that allows business owners t
 
 ## Walkthrough Video
 
+[Walkthrough video sped up](https://new.express.adobe.com/id/urn:aaid:sc:US:5aaeedd5-0f8c-4a5e-95cb-1344480b508b?invite=true&promoid=Z2G1FQKR&mv=other)
 
 ## License
 This project is licensed under the MIT License.
